@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "folder_name": "Projects"
+    },
+    {
+        "id": "2",
+        "folder_name": "Personal"
+    },
+    {
+        "id": "3",
+        "folder_name": "Work Documents"
+    },
+    {
+        "id": "4",
+        "folder_name": "Invoices"
+    },
+    {
+        "id": "5",
+        "folder_name": "Screenshots"
+    }
+]
